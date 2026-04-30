@@ -1,0 +1,6 @@
+# Player Scores
+# Format: Name: Score
+Subhajit: 3
+ankita: 1
+khepi: 3
+hh: 1
